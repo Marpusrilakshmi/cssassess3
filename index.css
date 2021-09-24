@@ -1,0 +1,98 @@
+
+body{
+    background-color:lightgray;
+}
+.block {
+    border: 5px solid green;
+    position: relative;
+    height: 400px;
+
+}
+.welcome {
+    border: 5px solid red;
+    background-color: white;
+    margin: 11px 415px;
+    text-align: center;
+    border-radius: 29px;
+    font-size: larger;
+    box-shadow: 5px 5px mediumvioletred;
+    font-style: oblique;
+    font-weight: bolder;
+    color: firebrick;
+    text-shadow: 1px 1px;
+}
+.box {
+    background-color: white;
+    border: 5px solid red;
+    height: 152px;
+    width: 200px;
+   margin: 10px;
+    font-size: larger;
+    color: brown;
+    text-shadow: 1px 1px;
+    font-weight: bolder;
+    border-radius: 16px;
+    text-align: center;
+    padding: 10px 5px;
+    box-shadow: 5px 5px purple;
+}
+.box1 {
+    position: absolute;
+    top: 0px;
+}
+.box2 {
+    position: absolute;
+    right: 0px;
+}
+.box3 {
+    position: absolute;
+    bottom: 0px;
+}
+.box4 {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+.specbox {
+    background-color: chartreuse;
+    border: 5px solid red;
+    position: fixed;
+    top: 70%;
+    left: 35%;
+    bottom: 7%;
+    border-radius: 28px;
+    height: 90px;
+    width: 420px;
+    color: darkred;
+    box-shadow: 5px 5px purple;
+}
+.items {
+    background-color: darkgreen;
+    border: 3px solid purple;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 24%;
+    height: 501px;
+    margin-top: 20px;
+}
+
+.class1 {
+    background-color: khaki;
+    float: left;
+    width: 50%;
+    height: 50%;
+
+}
+.class2 {
+    background-color: khaki;
+    margin: 3px;
+    float: left;
+    width: 49%;
+    height: 248px;
+}
+.class3 {
+    background-color: khaki;
+    clear: left;
+    height: 38%;
+    width: 100%;
+}
